@@ -8,7 +8,7 @@ npm install a-life
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Cl1ckerr" alt="Profile Forks"></a>
 <a href="https://cl1cker.xyz/" target="_blank"> <img src="https://discordapp.com/api/guilds/864857288584724500/widget.png?style=shield" alt="shield.png"></a>
 
-✔️・**Latest open source project [Hazard-Token-Grabber-V2](https://github.com/Rdimo/Hazard-Token-Grabber-V2)**
+✔️・**Latest open source project [Cl1cker](https://github.com/Cl1ckerr/Cl1cker)**
 
 📩・**Want to reach? Add Cl1cker#0001 on [discord](https://discord.gg/PFCAf5JaeG)
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=cl1ckerr&show_icons=true&locale=en&layout=compact" alt="rdimo" /> </p>
