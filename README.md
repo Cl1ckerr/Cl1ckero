@@ -10,7 +10,7 @@ npm install a-life
 
 ✔️・**Latest open source project [Hazard-Token-Grabber-V2](https://github.com/Rdimo/Hazard-Token-Grabber-V2)**
 
-📩・**Want to reach? Add Rdimo#6969 on [discord](https://discord.gg/PFCAf5JaeG) or mail contact.rdimo@gmail.com**
+📩・**Want to reach? Add Cl1cker#0001 on [discord](https://discord.gg/PFCAf5JaeG)
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=cl1ckerr&show_icons=true&locale=en&layout=compact" alt="rdimo" /> </p>
 🌐・**Website: [cl1cker.xyz](https://cl1cker.xyz)**
 <h3 style="font-family:verdana" align="left">Languages I know/have experience in:</h3>
