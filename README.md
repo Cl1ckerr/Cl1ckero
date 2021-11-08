@@ -14,5 +14,6 @@ npm install a-life
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=cl1ckerr&show_icons=true&locale=en&layout=compact" alt="cl1ckerr" /> </p>
 🌐・**Website: [cl1cker.xyz](https://cl1cker.xyz)**
 <h3 style="font-family:verdana" align="left">Languages I know/have experience in:</h3>
+href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" 
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <a href="https://www.w3schools.com/html/" target="_blank"></a>
 <a href="https://cl1cker.xyz" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
